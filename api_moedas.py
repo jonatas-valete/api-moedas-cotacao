@@ -49,7 +49,7 @@ if __name__ == '__main__':
              print(mostrar_moeda(moeda))
              for contagem in range(0, 5):
                 sleep(5)
-             print(mostrar_moeda(moeda))
     except Exception as e:
         print(e)
+
 
